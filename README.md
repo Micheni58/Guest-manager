@@ -1,7 +1,6 @@
 # 📋 Event Guest List Manager 🎉
 
-A simple web-based application to manage event guests — add guests, display them in a list, delete guests, and optionally toggle RSVP status.
-
+A simple web-based application to manage event guests — add guests, display them in a list, delete guests.
 ---
 
 ## 📖 Overview
