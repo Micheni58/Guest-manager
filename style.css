@@ -61,6 +61,6 @@ button{
 }
 
 
-#btn:hover{
+button:hover{
     background-color:orange;
 }
